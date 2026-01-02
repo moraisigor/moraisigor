@@ -12,7 +12,7 @@ Currently, I am dedicated to the study of dev ops, security, and cloud computing
 ![](https://img.shields.io/badge/Type_Script-4376C1?style=for-the-badge)
 ![](https://img.shields.io/badge/Ruby-D03A35?style=for-the-badge)
 ![](https://img.shields.io/badge/Elixir-yellow?style=for-the-badge)
-![](https://img.shields.io/badge/Swift-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Swift-DF5C41?style=for-the-badge)
 ![](https://img.shields.io/badge/Kotlin-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Dart-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
