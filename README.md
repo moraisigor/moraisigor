@@ -8,4 +8,11 @@ I have been all about Ruby, Elixir, JavaScript, and TypeScript for the past few 
 
 Currently, I am dedicated to the study of dev ops, security, and cloud computing :)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Java_Script-F4E04F?style=for-the-badge)
+![](https://img.shields.io/badge/Type_Script-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Ruby-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Elixir-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Swift-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Kotlin-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Dart-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
