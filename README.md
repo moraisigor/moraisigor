@@ -8,13 +8,13 @@ I have been all about Ruby, Elixir, JavaScript, and TypeScript for the past few 
 
 Currently, I am dedicated to the study of dev ops, security, and cloud computing :)
 
-![](https://img.shields.io/badge/Java_Script-F4E04F?style=for-the-badge)
-![](https://img.shields.io/badge/Type_Script-4376C1?style=for-the-badge)
-![](https://img.shields.io/badge/Ruby-D03A35?style=for-the-badge)
-![](https://img.shields.io/badge/Dart-265697?style=for-the-badge)
-![](https://img.shields.io/badge/Python-34567B?style=for-the-badge)
-![](https://img.shields.io/badge/Swift-DE5D44?style=for-the-badge)
-![](https://img.shields.io/badge/Kotlin-7953F6?style=for-the-badge)
-![](https://img.shields.io/badge/Elixir-351550?style=for-the-badge)
+![](https://img.shields.io/badge/java_script-F4E04F?style=for-the-badge)
+![](https://img.shields.io/badge/type_script-4376C1?style=for-the-badge)
+![](https://img.shields.io/badge/ruby-D03A35?style=for-the-badge)
+![](https://img.shields.io/badge/dart-265697?style=for-the-badge)
+![](https://img.shields.io/badge/python-34567B?style=for-the-badge)
+![](https://img.shields.io/badge/swift-DE5D44?style=for-the-badge)
+![](https://img.shields.io/badge/kotlin-7953F6?style=for-the-badge)
+![](https://img.shields.io/badge/elixir-351550?style=for-the-badge)
 
 ![](https://img.shields.io/badge/react-75C1D9?style=for-the-badge)
