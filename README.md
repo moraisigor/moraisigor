@@ -18,3 +18,4 @@ Currently, I am dedicated to the study of dev ops, security, and cloud computing
 ![](https://img.shields.io/badge/elixir-351550?style=for-the-badge)
 
 ![](https://img.shields.io/badge/react-75C1D9?style=for-the-badge)
+![](https://img.shields.io/badge/next_js-000000?style=for-the-badge)
