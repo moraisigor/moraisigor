@@ -1,6 +1,6 @@
-#
+# Hello ✊🏻
 
-Hello, I am Igor Morais, a Full Stack Engineer from São Paulo, Brazil, with over 15 years of experience.
+I am Igor Morais, a Full Stack Engineer from São Paulo, Brazil, with over 15 years of experience.
 
 I started my professional journey as a Mobile Engineer, where I had the opportunity to contribute to some challenging projects for notable companies such as Apple and Samsung. However, driven by my curiosity about software development, I decided to explore web development. Following six years of experience as a Mobile Engineer, I made the transition to become a Full Stack Engineer.
 
