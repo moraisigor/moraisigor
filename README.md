@@ -1,12 +1,12 @@
 # Hello ✊🏻
 
-I am Igor Morais, a Full Stack Engineer from São Paulo, Brazil, with over 15 years of experience.
+Hello, I'm Igor Morais, a Software Engineer, with 16+ years of experience building software across web and mobile.
 
-I started my professional journey as a Mobile Engineer, where I had the opportunity to contribute to some challenging projects for notable companies such as Apple and Samsung. However, driven by my curiosity about software development, I decided to explore web development. Following six years of experience as a Mobile Engineer, I made the transition to become a Full Stack Engineer.
+I started my journey in mobile development as a Mobile Engineer, where I got to contribute on projects for companies like Apple and Samsung. In 2016, I made a transition to web development, first as a Front End Engineer, and eventually as a Full Stack Engineer.
 
-I have been all about Ruby, Elixir, JavaScript, and TypeScript for the past few years, which have become my primary programming languages, and I have accumulated significant experience with different technologies such as React, React Native, Next Js, Nest Js, Phoenix, and Ruby on Rails. Moreover, I have experience with SQL databases, including SQLite, MySQL, and PostgreSQL, as well as NoSQL databases, including MongoDB, Azure Cosmos DB, and Amazon DynamoDB. In the domain of cloud computing, I have experience with Microsoft Azure and Amazon Web Services, along with tools such as Docker, Pulumi, and Terraform.
+Today, I mostly work with Ruby, Python, Elixir, JavaScript and TypeScript. I've built products with React, React Native, NextJs, Rails, NestJs and Phoenix. I've worked across both relational (Maria, Oracle and Postgre) and non relational (Redis, Mongo, Cosmos and Dynamo) databases. In the domain of cloud, I have experience with Microsoft Azure and Amazon Web Services, using with containerization (Docker), orchestration (Kubernetes), CI/CD (Travis, Circle, Code Build and GitHub Actions) and IaC (Pulumi, Terraform) tools.
 
-Currently, I am dedicated to the study of dev ops, security, and cloud computing :)
+Lately, I've been studying out on Cloud Security, Cloud Architecture, and Artificial Intelligence.
 \
 \
 \
