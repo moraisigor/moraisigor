@@ -4,7 +4,7 @@ Hello, I'm Igor Morais, a Software Engineer with 16+ years of experience buildin
 
 I started my journey in mobile development as a Mobile Engineer, where I got to contribute to projects for companies like Apple and Samsung. In 2016, I made a transition to web development, first as a Front End Engineer, and eventually as a Full Stack Engineer.
 
-Today, I mostly work with Ruby, Python, Elixir, JavaScript and TypeScript. I've built products with React, React Native, NextJs, Rails, NestJs and Phoenix. I've worked across both relational (Maria, Oracle and Postgre) and non relational (Redis, Mongo, Cosmos and Dynamo) databases. In the domain of cloud, I have experience with Microsoft Azure and Amazon Web Services, using with containerization (Docker), orchestration (Kubernetes), CI/CD (Travis, Circle, Code Build and GitHub Actions) and IaC (Pulumi, Terraform) tools.
+Today, I mostly work with Ruby, Python, Elixir, JavaScript, and TypeScript. I've built products with React, React Native, Next, Nest, Rails, and Phoenix. I've worked across both relational (Maria, Oracle, and Postgres) and non-relational (Redis, Mongo, Cosmos, and Dynamo) databases. In the cloud space, I have experience with Microsoft Azure and Amazon Web Services, using containerization (Docker), orchestration (Kubernetes), CI/CD (Travis, Circle, CodeBuild, and GitHub Actions), and IaC (Pulumi, Terraform) tools.
 
 Lately, I've been studying out on Cloud Security, Cloud Architecture, and Artificial Intelligence.
 \
