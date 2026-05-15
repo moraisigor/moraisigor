@@ -1,6 +1,6 @@
 # Hello ✊🏻
 
-Hello, I'm Igor Morais, a Software Engineer, with 16+ years of experience building software across web and mobile.
+Hello, I'm Igor Morais, a Software Engineer with 16+ years of experience building software across web and mobile.
 
 I started my journey in mobile development as a Mobile Engineer, where I got to contribute on projects for companies like Apple and Samsung. In 2016, I made a transition to web development, first as a Front End Engineer, and eventually as a Full Stack Engineer.
 
