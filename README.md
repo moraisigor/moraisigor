@@ -11,7 +11,7 @@ Lately, I've been studying Cloud Security, Cloud Architecture, and Artificial In
 \
 \
 \
-<span align="left">
+<div align="left">
   <img src="https://img.shields.io/badge/amazon_web_services-222B3A?style=for-the-badge" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/android-58A55D?style=for-the-badge" alt="Android" />
   <img src="https://img.shields.io/badge/dart-265697?style=for-the-badge" alt="Dart" />
@@ -34,4 +34,4 @@ Lately, I've been studying Cloud Security, Cloud Architecture, and Artificial In
   <img src="https://img.shields.io/badge/swift-DE5D44?style=for-the-badge" alt="Swift" />
   <img src="https://img.shields.io/badge/terraform-594EDE?style=for-the-badge" alt="Terraform" />
   <img src="https://img.shields.io/badge/type_script-4376C1?style=for-the-badge" alt="Type Script" />
-</span>
+</div>
