@@ -7,10 +7,7 @@ I started my journey in mobile development as a Mobile Engineer, where I got to 
 Today, I mostly work with Ruby, Python, Elixir, JavaScript, and TypeScript. I've built products with React, React Native, Next, Nest, Rails, and Phoenix. I've worked across both relational (Maria, Oracle, and Postgres) and non-relational (Redis, Mongo, Cosmos, and Dynamo) databases. In the cloud space, I have experience with Microsoft Azure and Amazon Web Services, using containerization (Docker), orchestration (Kubernetes), CI/CD (Travis, Circle, CodeBuild, and GitHub Actions), and IaC (Pulumi, Terraform) tools.
 
 Lately, I've been studying Cloud Security, Cloud Architecture, and Artificial Intelligence.
-\
-\
-\
-\
+
 <div align="left">
   <img src="https://img.shields.io/badge/amazon_web_services-222B3A?style=for-the-badge" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/android-58A55D?style=for-the-badge" alt="Android" />
